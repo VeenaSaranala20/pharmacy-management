@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "Veena",
+      "email": "saranalabhargavi@gmail.com",
+      "password": "Veena@2004",
+      "id": "xJo-V-8"
+    }
+  ],
+  "medicines": [
+    {
+      "id": "1",
+      "name": "Paracetamol 500mg",
+      "brand": "Cipla",
+      "category": "Pain Relief",
+      "description": "Used for pain and fever relief.",
+      "price": 35,
+      "quantity": 100,
+      "image": "",
+      "expiryDate": "2027-12-31"
+    },
+    {
+      "id": "2",
+      "name": "Vitamin C",
+      "brand": "HealthKart",
+      "category": "Vitamins",
+      "description": "Vitamin C supplement.",
+      "price": 120,
+      "quantity": 50,
+      "image": "",
+      "expiryDate": "2027-10-20"
+    },
+    {
+      "id": "3",
+      "name": "Cetirizine 10mg",
+      "brand": "Dr. Reddy's",
+      "category": "Allergy",
+      "description": "Antihistamine medicine.",
+      "price": 25,
+      "quantity": 5,
+      "image": "",
+      "expiryDate": "2027-08-15"
+    },
+    {
+      "id": "4",
+      "name": "Omeprazole 20mg",
+      "brand": "Sun Pharma",
+      "category": "Digestive Health",
+      "description": "Used for acid-related conditions.",
+      "price": 65,
+      "quantity": 75,
+      "image": "",
+      "expiryDate": "2028-01-15"
+    },
+    {
+      "name": "Paracetmol",
+      "brand": "Cipla",
+      "category": "Other",
+      "description": "sxdcfvgbhnjmk,l./",
+      "price": 35,
+      "quantity": 4,
+      "image": "",
+      "expiryDate": "2027-05-29",
+      "id": "oMdehSa"
+    }
+  ],
+  "favorites": []
+}
